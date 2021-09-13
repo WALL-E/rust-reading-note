@@ -1,0 +1,2 @@
+# rust-reading-note
+THE RUST PROGRAMMING LANGUAGE
